@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth font rendering across browsers */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Base body setup */
+body {
+  @apply bg-gray-50 text-gray-900;
+  line-height: 1.6;
+}
+
+/* Link styles */
+a {
+  @apply text-blue-600 underline hover:text-blue-800;
+}
+
+/* Utility class for consistent section spacing */
+section {
+  @apply my-8;
+}
+
+/* Optional: transition utility for smooth color or layout changes */
+* {
+  transition: all 0.2s ease-in-out;
+}

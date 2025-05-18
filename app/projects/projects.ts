@@ -1,0 +1,106 @@
+const projects = [
+    {
+        title: 'NJDEP Pesticide Surveys',
+        description: 'A reporting tool for pesticide applicators to remain compliant with their NJDEP license requirements. Not currently publicly available.',
+        link: 'https://dep.nj.gov',
+        status: 'In development',
+    },
+    {
+        title: 'NJDEP Water Resource Management Project Manager',
+        description: 'A private web application for NJDEP to collate data across multiple departments, bureaus, and projects. Built with React, Typescript, Node.js, Prisma, and Postgres.',
+        link: 'https://dep.nj.gov',
+        status: 'In development',
+    },
+    {
+        title: 'WatershedNJ',
+        description: 'A suite of online data and tools designed to support watershed education and watershed management activities, built with React, ArcGIS SDK, and Typescript.',
+        link: 'https://watershednj.rutgers.edu',
+        status: 'In development',
+    },
+    {
+        title: 'NJTicks4Science',
+        description: 'A citizen science portal with real-time data flows, built using Node.js, React, and REST APIs.',
+        link: 'https://ticks.rutgers.edu',
+        status: 'In maintenance',
+    },
+    {
+        title: 'CERAP',
+        description: 'An interactive mapping application to identify areas and projects for wetland restoration, built with React and ArcGIS SDK.',
+        link: 'https://njrestors.rutgers.edu/cerap',
+        status: 'In maintenance',
+    },
+    {
+        title: 'PDE WATCH',
+        description: 'A tool to provide a method to evaluate the condition and trajectory of a tidal wetland site, built with React.',
+        link: 'https://njrestors.rutgers.edu/pde-watch',
+        status: 'In maintenance',
+    },
+    {
+        title: 'PDE Living Shorelines Feasibility Model',
+        description: 'An integrative tool that evaluates a suite of metrics to assess considerations involved in constructing and maintaining a living shoreline, built with React.',
+        link: 'https://njrestors.rutgers.edu/pde-lsfm',
+        status: 'In maintenance',
+    },
+    {
+        title: 'Restoration Explorer',
+        description: 'An interactive mapping tool that provides landscape scale evaluation of wetlands, built with React and ArcGIS SDK.',
+        link: 'https://njrestors.rutgers.edu/restoration',
+        status: 'In maintenance',
+    },
+    {
+        title: 'Local Planning Navigator',
+        description: 'A web application to communicate climate risk in NJ, built with NextJS.',
+        link: 'https://njclimatenavigator.rutgers.edu/localplanning',
+        status: 'In maintenance',
+    },
+    {
+        title: 'William Penn Foundation Database',
+        description: 'A private web application, API, and database, built with React, Node.js, Sequelize, and MySQL.',
+        link: '',
+        status: 'In maintenance',
+    },
+    {
+        title: 'NJ Watershed Adapt',
+        description: 'A web application providing data for the Upper Salem watershed. Built with React.',
+        link: 'https://njwatershedadapt.rutgers.edu',
+        status: 'In maintenance',
+    },
+    {
+        title: 'NJ Climate Dashboards',
+        description: 'A statewide climate dashboard to communicate climate risk in NJ, built with React and ArcGIS SDK.',
+        link: 'https://climatedashboards.rutgers.edu',
+        status: 'In maintenance',
+    },
+    {
+        title: 'NJ Health Adapt',
+        description: 'A mapping application to communicate health equity risk in NJ, built with React.',
+        link: 'http://njhealthadapt.rutgers.edu',
+        status: 'In maintenance',
+    },
+    {
+        title: 'SGS-IDP',
+        description: 'A private web application where Rutgers graduate students can communicate their progress with their advisors and program directors, built with React, Node.js, Sequelize, and MySQL.',
+        link: 'https://sgs-studentidp.rutgers.edu',
+        status: 'In maintenance',
+    },
+    {
+        title: 'Profact',
+        description: 'A platform for fertilizer applicators to take exams, pay for renewals, and manage their state licenses, built with React, Node.js, Sequelize, and MySQL.',
+        link: 'https://profact.rutgers.edu',
+        status: 'In maintenance',
+    },
+    {
+        title: 'NJ Aquaculture Suitability',
+        description: 'An interactive mapping application to identify areas suitable for aquaculture, built with React and ArcGIS SDK.',
+        link: 'https://njaquaculture.rutgers.edu',
+        status: 'In maintenance',
+    },
+    {
+        title: 'NJ Water Equity Risk',
+        description: 'A mapping application to communicate water equity risk in NJ, built with PHP and ArcGIS SDK.',
+        link: 'https://njwaterequity.rutgers.edu',
+        status: 'In maintenance',
+    },
+]
+
+export default projects
