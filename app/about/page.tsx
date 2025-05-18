@@ -13,7 +13,7 @@ export default function AboutPage() {
 
         <p> When the opportunity arose to jump from the lab to a tech role in 2020, I seized it. I was hired as a database administrator but within 3 months, I taught myself JavaScript, the ArgGIS SDK, and React and was taking on projects as a full-stack developer.</p>
 
-      <p> You can see from my long list of projects completed since then that I've been continuously learning and growing as a developer while handling multiple projects simultaneously.</p>
+      <p> You can see from my long list of projects completed since then that I&apos;ve been continuously learning and growing as a developer while handling multiple projects simultaneously.</p>
       </section>
     )
   }
