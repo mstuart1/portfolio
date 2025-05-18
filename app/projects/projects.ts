@@ -7,19 +7,19 @@ const projects = [
     },
     {
         title: 'NJDEP Water Resource Management Project Manager',
-        description: 'A private web application for NJDEP to collate data across multiple departments, bureaus, and projects. Built with React, Typescript, Node.js, Prisma, and Postgres.',
+        description: 'A private web application for NJDEP to collate data across multiple departments, bureaus, and projects. Built with React, ArcGIS SDK, Typescript, Vite, Node.js, Prisma, and Postgres.',
         link: 'https://dep.nj.gov',
         status: 'In development',
     },
     {
         title: 'WatershedNJ',
-        description: 'A suite of online data and tools designed to support watershed education and watershed management activities, built with React, ArcGIS SDK, and Typescript.',
+        description: 'A suite of online data and tools designed to support watershed education and watershed management activities, built with React, ArcGIS SDK, Vite, and Typescript.',
         link: 'https://watershednj.rutgers.edu',
         status: 'In development',
     },
     {
         title: 'NJTicks4Science',
-        description: 'A citizen science portal with real-time data flows, built using Node.js, React, and REST APIs.',
+        description: 'A citizen science portal with real-time data flows, built using Node.js, Sequelize, Express, React, and REST APIs.',
         link: 'https://ticks.rutgers.edu',
         status: 'In maintenance',
     },
